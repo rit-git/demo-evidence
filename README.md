@@ -4,6 +4,7 @@
 
 type following commands at root directory of this project. 
 ```shell script
+npm install -g yarn
 npm install
 ```
 
