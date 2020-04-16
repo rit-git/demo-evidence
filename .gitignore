@@ -27,3 +27,4 @@ __pycache__
 
 yarn.lock
 package-lock.json
+/.idea
