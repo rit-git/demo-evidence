@@ -108,8 +108,8 @@ function App() {
             </Grid>
             <Grid item xs={4}>
               <FormControlLabel
-                control={<Checkbox checked={showNegative} onChange={() => setShowNegative(!showNegative)} name="show_nagative" />}
-                label="show_nagative"
+                control={<Checkbox checked={showNegative} onChange={() => setShowNegative(!showNegative)} name="show_negative" />}
+                label="show_negative"
               />
             </Grid>
           </Grid>
